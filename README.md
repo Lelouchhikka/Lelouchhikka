@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lelouchhikka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning django and unity
 - 💞️ I’m looking to collaborate on other companies
 - 📫 How to reach me telegramId @lelouchhikka
 

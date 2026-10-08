@@ -12,6 +12,7 @@ Fullstack developer. I build production web apps end to end — React/TypeScript
 
 | Project | What it is |
 |---|---|
+| [rtk-query-connect](https://github.com/Lelouchhikka/rtk-query-connect) | Typed RTK Query endpoints for ConnectRPC / gRPC-Web — [npm](https://www.npmjs.com/package/rtk-query-connect) |
 | [architecture-graph](https://github.com/Lelouchhikka/architecture-graph) | Impact analysis for features, endpoints and components — Go, PostgreSQL, Docker, CI/CD |
 | [smart-converter](https://github.com/Lelouchhikka/smart-converter) | RTMP/RTSP stream monitoring with real-time drone telemetry |
 | [IndriverSecondTask](https://github.com/Lelouchhikka/IndriverSecondTask) | Geoanalytics of anonymized GPS tracks in Astana (inDrive hackathon) |
